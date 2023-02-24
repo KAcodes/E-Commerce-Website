@@ -14,25 +14,25 @@ The user can add/remove products to the shopping cart and filter what items they
 
 1) Open your terminal and then type
 
-$ git clone {the url to the GitHub repo}
+  $ git clone {the url to the GitHub repo}
 
-This clones the repo
+  This clones the repo
 
 2) cd into the new folder and type
 
-$ npm install 
+  $ npm install 
 
-...and then
+  ...and then
 
-$ npm install --save-dev @faker-js/faker
+  $ npm install --save-dev @faker-js/faker
 
-This installs the required dependencies
+  This installs the required dependencies
 
 3) To run the React project type 
 
-$ npm start
+  $ npm start
 
-The app will then run in development mode with path http://localhost:3000 in your browser.
+  The app will then run in development mode with path http://localhost:3000 in your browser.
 
  
 ## Credits 
