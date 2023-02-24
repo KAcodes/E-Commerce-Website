@@ -22,10 +22,6 @@ The user can add/remove products to the shopping cart and filter what items they
 
   $ npm install 
 
-  ...and then
-
-  $ npm install --save-dev @faker-js/faker
-
   This installs the required dependencies
 
 3) To run the React project type 
