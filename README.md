@@ -14,7 +14,7 @@ The user can add/remove products to the shopping cart and filter what items they
 
 1) Open your terminal and then type
 
-  $ git clone {the url to the GitHub repo}
+  $ git clone https://github.com/KAcodes/E-Commerce-Website.git
 
   This clones the repo
 
