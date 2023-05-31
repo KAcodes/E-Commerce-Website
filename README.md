@@ -28,7 +28,7 @@ The user can add/remove products to the shopping cart and filter what items they
 
   $ npm start
 
-  The app will then run in development mode with path http://localhost:3000 in your browser.
+The app will then run at address http://localhost:3000 in your browser.
 
  
 ## Credits 
@@ -36,6 +36,8 @@ The user can add/remove products to the shopping cart and filter what items they
 I thank youtuber @RoadsideCoder for providing a detailed tutorial which gave me the framework for this project.
 
 ## Screenshots of website
+
+## Screenshots of project
 
 ![image](https://user-images.githubusercontent.com/61561703/221186260-5580406d-f0be-4029-9181-1351fd5aa2e8.png)
 
