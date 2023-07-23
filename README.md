@@ -9,6 +9,8 @@ React Context was used to manage state of objects and allow functionality across
 
 The user can add/remove products to the shopping cart and filter what items they can see on the home page using the filter sidebar or the search bar in the navigation bar. Navigating to the shopping cart the user can modify their basket there and see what the total of their shopping amounts to. 
 
+View the project using this link: https://kacodes.github.io/E-Commerce-Website/
+
 
 ## How to install and run this project
 
